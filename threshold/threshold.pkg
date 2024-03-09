@@ -1,5 +1,6 @@
 d 'threshold': threshold
 d
 f thresholdtest.ado
-f thresholdtest.ado
+f thresholdreg.ado
 f threshold.dta
+f threshold.xlsx
